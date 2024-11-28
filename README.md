@@ -25,6 +25,7 @@ docker build -t container-1 .
 dcoker run -it --name con1 container-1
 ```
 ![image](https://github.com/user-attachments/assets/43a3e234-f68d-491b-b3fa-957d137c2cb0)
+
 (Git Bash здесь меня подвел, использую CMD.EXE)
 __Аналогично со вторым контейнером.__
 
